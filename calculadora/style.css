@@ -1,0 +1,73 @@
+
+body{
+    background-image: url("https://us.123rf.com/450wm/peshkov/peshkov1906/peshkov190601173/126044661-fondo-de-pantalla-abstracto-brillante-f%C3%B3rmulas-matem%C3%A1ticas-con-ecuaciones-matem%C3%A1ticas-algoritmo-y-co.jpg?ver=6");
+    
+}
+h1{
+    color: aliceblue;
+    padding: 1rem;
+}
+
+.calculadora{
+    background-color: rgb(141, 29, 247);
+    padding: 25px;
+    border-radius: 3%;
+}
+
+.teclado{
+    background-color: rgb(141, 29, 247);
+}
+
+.teclas{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 0px;
+    margin-left: 0px ;
+    text-align: center;
+    width: 100%;
+    
+}
+
+.boton{
+    background-color: rgb(48, 9, 94);
+    text-align: center;
+    color: white;
+    width: 45px;
+    height: 45px;
+    padding: 5px;
+    margin: 2px;
+    display: block;
+}
+
+.boton-igual{
+    background-color: rgb(71, 71, 230);
+    text-align: center;
+    color: white;
+    display: block;
+    width: 45px;
+    height: 92px;
+    padding: 5px;
+    margin: 2px;
+    
+}
+
+
+.resultado{
+    background-color: rgb(179, 179, 206);
+    border: 1px;
+    border-style: solid;
+    height: 65px;
+   
+}
+
+.led{
+
+    text-align: right;
+    font-size: xx-large;
+    width: 100%;
+    padding: 10px;
+    font-family: 'Inconsolata', monospace;
+}
+
+
+
